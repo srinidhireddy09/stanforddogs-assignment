@@ -19,8 +19,8 @@ aditya86/ImageNetDogs/).
 - Python 3.6 or later
 - Libraries: pandas, NumPy, Matplotlib, OpenCV
 
-  ## parameters
-  we write a list of rules for inputs to go in, get manipulated in a way then output come out.
+## parameters
+we write a list of rules for inputs to go in, get manipulated in a way then output come out.
 
 ## steps to process the dataset to run the code correctly
 Visit the Stanford Dogs Dataset page to download the images.
